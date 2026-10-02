@@ -1,0 +1,1037 @@
+[
+  {
+    "match_id": "1874553",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1033650,
+    "n_player_rows": 973368,
+    "n_ball_rows": 60282,
+    "n_frames": 60282,
+    "n_frames_by_period": {
+      "1": 28981,
+      "2": 31301
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 973368,
+    "player_rows_detected": 564001,
+    "share_player_rows_detected": 0.5794324448718264,
+    "ball_rows_with_position": 44244,
+    "ball_rows_detected": 36401,
+    "ball_rows_with_z": 44244,
+    "frames_possession_null_share": 0.45421518861351645,
+    "player_offpitch_any": {
+      "detected": 3776,
+      "extrapolated_or_absent": 3558,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 279,
+      "extrapolated_or_absent": 870,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.24,
+    "player_max_abs_y_m": 39.37,
+    "ball_offpitch_any": {
+      "detected": 2260,
+      "extrapolated_or_absent": 3315,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 354,
+      "extrapolated_or_absent": 1069,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1886347",
+    "source": "skillcorner",
+    "pitch_length_m": 104.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1015118,
+    "n_player_rows": 956076,
+    "n_ball_rows": 59042,
+    "n_frames": 59042,
+    "n_frames_by_period": {
+      "1": 27781,
+      "2": 31261
+    },
+    "n_players_seen": 29,
+    "player_rows_with_position": 956076,
+    "player_rows_detected": 566778,
+    "share_player_rows_detected": 0.5928168890339262,
+    "ball_rows_with_position": 43458,
+    "ball_rows_detected": 35750,
+    "ball_rows_with_z": 43458,
+    "frames_possession_null_share": 0.45631923037837474,
+    "player_offpitch_any": {
+      "detected": 4009,
+      "extrapolated_or_absent": 2763,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 116,
+      "extrapolated_or_absent": 606,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 58.27,
+    "player_max_abs_y_m": 37.16,
+    "ball_offpitch_any": {
+      "detected": 1842,
+      "extrapolated_or_absent": 3071,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 126,
+      "extrapolated_or_absent": 1186,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1899585",
+    "source": "skillcorner",
+    "pitch_length_m": 104.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 955493,
+    "n_player_rows": 894982,
+    "n_ball_rows": 60511,
+    "n_frames": 60511,
+    "n_frames_by_period": {
+      "1": 29751,
+      "2": 30760
+    },
+    "n_players_seen": 30,
+    "player_rows_with_position": 894982,
+    "player_rows_detected": 493922,
+    "share_player_rows_detected": 0.5518792556721811,
+    "ball_rows_with_position": 40681,
+    "ball_rows_detected": 31826,
+    "ball_rows_with_z": 40681,
+    "frames_possession_null_share": 0.5112293632562674,
+    "player_offpitch_any": {
+      "detected": 2943,
+      "extrapolated_or_absent": 3490,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 269,
+      "extrapolated_or_absent": 833,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.6,
+    "player_max_abs_y_m": 38.0,
+    "ball_offpitch_any": {
+      "detected": 1553,
+      "extrapolated_or_absent": 2952,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 87,
+      "extrapolated_or_absent": 972,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1925299",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1116006,
+    "n_player_rows": 1054724,
+    "n_ball_rows": 61282,
+    "n_frames": 61282,
+    "n_frames_by_period": {
+      "1": 30231,
+      "2": 31051
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 1054724,
+    "player_rows_detected": 610457,
+    "share_player_rows_detected": 0.5787836438727099,
+    "ball_rows_with_position": 47942,
+    "ball_rows_detected": 38618,
+    "ball_rows_with_z": 47942,
+    "frames_possession_null_share": 0.4192585098397572,
+    "player_offpitch_any": {
+      "detected": 3452,
+      "extrapolated_or_absent": 2735,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 115,
+      "extrapolated_or_absent": 861,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.92,
+    "player_max_abs_y_m": 40.97,
+    "ball_offpitch_any": {
+      "detected": 2016,
+      "extrapolated_or_absent": 3716,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 185,
+      "extrapolated_or_absent": 1263,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1927964",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1043749,
+    "n_player_rows": 984698,
+    "n_ball_rows": 59051,
+    "n_frames": 59051,
+    "n_frames_by_period": {
+      "1": 28371,
+      "2": 30680
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 984698,
+    "player_rows_detected": 605140,
+    "share_player_rows_detected": 0.6145437484386076,
+    "ball_rows_with_position": 44759,
+    "ball_rows_detected": 38215,
+    "ball_rows_with_z": 44759,
+    "frames_possession_null_share": 0.36668303669709235,
+    "player_offpitch_any": {
+      "detected": 2145,
+      "extrapolated_or_absent": 3030,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 172,
+      "extrapolated_or_absent": 934,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 59.06,
+    "player_max_abs_y_m": 38.97,
+    "ball_offpitch_any": {
+      "detected": 1233,
+      "extrapolated_or_absent": 2085,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 181,
+      "extrapolated_or_absent": 960,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1953632",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1025295,
+    "n_player_rows": 966064,
+    "n_ball_rows": 59231,
+    "n_frames": 59231,
+    "n_frames_by_period": {
+      "1": 28961,
+      "2": 30270
+    },
+    "n_players_seen": 30,
+    "player_rows_with_position": 966064,
+    "player_rows_detected": 600059,
+    "share_player_rows_detected": 0.621137937031087,
+    "ball_rows_with_position": 43912,
+    "ball_rows_detected": 35038,
+    "ball_rows_with_z": 43912,
+    "frames_possession_null_share": 0.4367982981884486,
+    "player_offpitch_any": {
+      "detected": 3958,
+      "extrapolated_or_absent": 3650,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 122,
+      "extrapolated_or_absent": 775,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.34,
+    "player_max_abs_y_m": 39.2,
+    "ball_offpitch_any": {
+      "detected": 1668,
+      "extrapolated_or_absent": 3159,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 103,
+      "extrapolated_or_absent": 1258,
+      "flag_missing": 0
+    },
+    "status_conflict": true
+  },
+  {
+    "match_id": "1959846",
+    "source": "skillcorner",
+    "pitch_length_m": 106.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 998790,
+    "n_player_rows": 940258,
+    "n_ball_rows": 58532,
+    "n_frames": 58532,
+    "n_frames_by_period": {
+      "1": 27961,
+      "2": 30571
+    },
+    "n_players_seen": 30,
+    "player_rows_with_position": 940258,
+    "player_rows_detected": 536373,
+    "share_player_rows_detected": 0.5704530033246195,
+    "ball_rows_with_position": 42739,
+    "ball_rows_detected": 34824,
+    "ball_rows_with_z": 42739,
+    "frames_possession_null_share": 0.4691279983598715,
+    "player_offpitch_any": {
+      "detected": 2548,
+      "extrapolated_or_absent": 3711,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 248,
+      "extrapolated_or_absent": 1151,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 58.18,
+    "player_max_abs_y_m": 42.97,
+    "ball_offpitch_any": {
+      "detected": 1669,
+      "extrapolated_or_absent": 3251,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 176,
+      "extrapolated_or_absent": 1160,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1986691",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1006743,
+    "n_player_rows": 947672,
+    "n_ball_rows": 59071,
+    "n_frames": 59071,
+    "n_frames_by_period": {
+      "1": 27771,
+      "2": 31300
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 947672,
+    "player_rows_detected": 557569,
+    "share_player_rows_detected": 0.5883565199773761,
+    "ball_rows_with_position": 43076,
+    "ball_rows_detected": 34019,
+    "ball_rows_with_z": 43076,
+    "frames_possession_null_share": 0.4572632933249818,
+    "player_offpitch_any": {
+      "detected": 3051,
+      "extrapolated_or_absent": 3904,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 316,
+      "extrapolated_or_absent": 1162,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 56.15,
+    "player_max_abs_y_m": 39.92,
+    "ball_offpitch_any": {
+      "detected": 1897,
+      "extrapolated_or_absent": 3528,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 301,
+      "extrapolated_or_absent": 879,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1996435",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1015284,
+    "n_player_rows": 957682,
+    "n_ball_rows": 57602,
+    "n_frames": 57602,
+    "n_frames_by_period": {
+      "1": 28011,
+      "2": 29591
+    },
+    "n_players_seen": 30,
+    "player_rows_with_position": 957682,
+    "player_rows_detected": 630145,
+    "share_player_rows_detected": 0.6579898129024039,
+    "ball_rows_with_position": 43531,
+    "ball_rows_detected": 34701,
+    "ball_rows_with_z": 43531,
+    "frames_possession_null_share": 0.4342210339918753,
+    "player_offpitch_any": {
+      "detected": 3486,
+      "extrapolated_or_absent": 2945,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 295,
+      "extrapolated_or_absent": 682,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 58.17,
+    "player_max_abs_y_m": 38.64,
+    "ball_offpitch_any": {
+      "detected": 1163,
+      "extrapolated_or_absent": 2732,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 167,
+      "extrapolated_or_absent": 1024,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "1996436",
+    "source": "skillcorner",
+    "pitch_length_m": 104.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1007713,
+    "n_player_rows": 947452,
+    "n_ball_rows": 60261,
+    "n_frames": 60261,
+    "n_frames_by_period": {
+      "1": 30131,
+      "2": 30130
+    },
+    "n_players_seen": 31,
+    "player_rows_with_position": 947452,
+    "player_rows_detected": 524840,
+    "share_player_rows_detected": 0.5539489071741893,
+    "ball_rows_with_position": 43066,
+    "ball_rows_detected": 32785,
+    "ball_rows_with_z": 43066,
+    "frames_possession_null_share": 0.5423906008861452,
+    "player_offpitch_any": {
+      "detected": 4286,
+      "extrapolated_or_absent": 4610,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 292,
+      "extrapolated_or_absent": 1181,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 56.95,
+    "player_max_abs_y_m": 38.93,
+    "ball_offpitch_any": {
+      "detected": 2024,
+      "extrapolated_or_absent": 4269,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 272,
+      "extrapolated_or_absent": 1283,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2006229",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1031013,
+    "n_player_rows": 971762,
+    "n_ball_rows": 59251,
+    "n_frames": 59251,
+    "n_frames_by_period": {
+      "1": 28471,
+      "2": 30780
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 971762,
+    "player_rows_detected": 611479,
+    "share_player_rows_detected": 0.6292476964524235,
+    "ball_rows_with_position": 44171,
+    "ball_rows_detected": 35881,
+    "ball_rows_with_z": 44171,
+    "frames_possession_null_share": 0.45229616377782655,
+    "player_offpitch_any": {
+      "detected": 3020,
+      "extrapolated_or_absent": 4334,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 154,
+      "extrapolated_or_absent": 1622,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.45,
+    "player_max_abs_y_m": 40.55,
+    "ball_offpitch_any": {
+      "detected": 1437,
+      "extrapolated_or_absent": 2828,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 176,
+      "extrapolated_or_absent": 808,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2006363",
+    "source": "skillcorner",
+    "pitch_length_m": 106.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1034706,
+    "n_player_rows": 975634,
+    "n_ball_rows": 59072,
+    "n_frames": 59072,
+    "n_frames_by_period": {
+      "1": 28941,
+      "2": 30131
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 975634,
+    "player_rows_detected": 516990,
+    "share_player_rows_detected": 0.5299015819456887,
+    "ball_rows_with_position": 44347,
+    "ball_rows_detected": 36160,
+    "ball_rows_with_z": 44347,
+    "frames_possession_null_share": 0.4438312567713976,
+    "player_offpitch_any": {
+      "detected": 3407,
+      "extrapolated_or_absent": 3862,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 213,
+      "extrapolated_or_absent": 1124,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.7,
+    "player_max_abs_y_m": 47.36,
+    "ball_offpitch_any": {
+      "detected": 1792,
+      "extrapolated_or_absent": 2942,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 143,
+      "extrapolated_or_absent": 975,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2007448",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1032288,
+    "n_player_rows": 974226,
+    "n_ball_rows": 58062,
+    "n_frames": 58062,
+    "n_frames_by_period": {
+      "1": 28521,
+      "2": 29541
+    },
+    "n_players_seen": 29,
+    "player_rows_with_position": 974226,
+    "player_rows_detected": 525931,
+    "share_player_rows_detected": 0.5398449641048381,
+    "ball_rows_with_position": 44283,
+    "ball_rows_detected": 34600,
+    "ball_rows_with_z": 44283,
+    "frames_possession_null_share": 0.48890840825324655,
+    "player_offpitch_any": {
+      "detected": 3597,
+      "extrapolated_or_absent": 4178,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 214,
+      "extrapolated_or_absent": 923,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 58.12,
+    "player_max_abs_y_m": 45.67,
+    "ball_offpitch_any": {
+      "detected": 1856,
+      "extrapolated_or_absent": 3789,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 365,
+      "extrapolated_or_absent": 1352,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2007721",
+    "source": "skillcorner",
+    "pitch_length_m": 104.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1076076,
+    "n_player_rows": 1018534,
+    "n_ball_rows": 57542,
+    "n_frames": 57542,
+    "n_frames_by_period": {
+      "1": 27701,
+      "2": 29841
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 1018534,
+    "player_rows_detected": 606845,
+    "share_player_rows_detected": 0.5958023983489996,
+    "ball_rows_with_position": 46297,
+    "ball_rows_detected": 37146,
+    "ball_rows_with_z": 46297,
+    "frames_possession_null_share": 0.4079281220673595,
+    "player_offpitch_any": {
+      "detected": 2755,
+      "extrapolated_or_absent": 4812,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 197,
+      "extrapolated_or_absent": 1442,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 58.96,
+    "player_max_abs_y_m": 40.01,
+    "ball_offpitch_any": {
+      "detected": 1981,
+      "extrapolated_or_absent": 3410,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 237,
+      "extrapolated_or_absent": 1137,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2010085",
+    "source": "skillcorner",
+    "pitch_length_m": 106.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1060434,
+    "n_player_rows": 1001462,
+    "n_ball_rows": 58972,
+    "n_frames": 58972,
+    "n_frames_by_period": {
+      "1": 29431,
+      "2": 29541
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 1001462,
+    "player_rows_detected": 554481,
+    "share_player_rows_detected": 0.5536715322198945,
+    "ball_rows_with_position": 45521,
+    "ball_rows_detected": 38008,
+    "ball_rows_with_z": 45521,
+    "frames_possession_null_share": 0.44088720070541954,
+    "player_offpitch_any": {
+      "detected": 2568,
+      "extrapolated_or_absent": 2560,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 91,
+      "extrapolated_or_absent": 638,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 56.05,
+    "player_max_abs_y_m": 39.1,
+    "ball_offpitch_any": {
+      "detected": 2370,
+      "extrapolated_or_absent": 2280,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 233,
+      "extrapolated_or_absent": 740,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2011166",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 917622,
+    "n_player_rows": 858330,
+    "n_ball_rows": 59292,
+    "n_frames": 59292,
+    "n_frames_by_period": {
+      "1": 28991,
+      "2": 30301
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 858330,
+    "player_rows_detected": 449919,
+    "share_player_rows_detected": 0.5241795113767432,
+    "ball_rows_with_position": 39015,
+    "ball_rows_detected": 31278,
+    "ball_rows_with_z": 39015,
+    "frames_possession_null_share": 0.5335289752411793,
+    "player_offpitch_any": {
+      "detected": 3464,
+      "extrapolated_or_absent": 3590,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 135,
+      "extrapolated_or_absent": 845,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 63.51,
+    "player_max_abs_y_m": 40.32,
+    "ball_offpitch_any": {
+      "detected": 2753,
+      "extrapolated_or_absent": 4076,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 283,
+      "extrapolated_or_absent": 1393,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2013725",
+    "source": "skillcorner",
+    "pitch_length_m": 106.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1046616,
+    "n_player_rows": 989824,
+    "n_ball_rows": 56792,
+    "n_frames": 56792,
+    "n_frames_by_period": {
+      "1": 27891,
+      "2": 28901
+    },
+    "n_players_seen": 30,
+    "player_rows_with_position": 989824,
+    "player_rows_detected": 534013,
+    "share_player_rows_detected": 0.5395029823483771,
+    "ball_rows_with_position": 44992,
+    "ball_rows_detected": 35561,
+    "ball_rows_with_z": 44992,
+    "frames_possession_null_share": 0.4405021834061135,
+    "player_offpitch_any": {
+      "detected": 3362,
+      "extrapolated_or_absent": 4588,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 174,
+      "extrapolated_or_absent": 1200,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.76,
+    "player_max_abs_y_m": 38.82,
+    "ball_offpitch_any": {
+      "detected": 2299,
+      "extrapolated_or_absent": 3776,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 293,
+      "extrapolated_or_absent": 1128,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2015213",
+    "source": "skillcorner",
+    "pitch_length_m": 106.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1127826,
+    "n_player_rows": 1067924,
+    "n_ball_rows": 59902,
+    "n_frames": 59902,
+    "n_frames_by_period": {
+      "1": 28831,
+      "2": 31071
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 1067924,
+    "player_rows_detected": 561041,
+    "share_player_rows_detected": 0.5253566733213225,
+    "ball_rows_with_position": 48542,
+    "ball_rows_detected": 36626,
+    "ball_rows_with_z": 48542,
+    "frames_possession_null_share": 0.4766618810724183,
+    "player_offpitch_any": {
+      "detected": 3252,
+      "extrapolated_or_absent": 5076,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 180,
+      "extrapolated_or_absent": 1339,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 56.74,
+    "player_max_abs_y_m": 43.31,
+    "ball_offpitch_any": {
+      "detected": 2472,
+      "extrapolated_or_absent": 4750,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 370,
+      "extrapolated_or_absent": 1399,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2016236",
+    "source": "skillcorner",
+    "pitch_length_m": 106.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 1025468,
+    "n_player_rows": 965426,
+    "n_ball_rows": 60042,
+    "n_frames": 60042,
+    "n_frames_by_period": {
+      "1": 30551,
+      "2": 29491
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 965426,
+    "player_rows_detected": 474009,
+    "share_player_rows_detected": 0.49098429087263035,
+    "ball_rows_with_position": 43883,
+    "ball_rows_detected": 35533,
+    "ball_rows_with_z": 43883,
+    "frames_possession_null_share": 0.4481529595949502,
+    "player_offpitch_any": {
+      "detected": 3086,
+      "extrapolated_or_absent": 3930,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 164,
+      "extrapolated_or_absent": 829,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 58.2,
+    "player_max_abs_y_m": 39.17,
+    "ball_offpitch_any": {
+      "detected": 1937,
+      "extrapolated_or_absent": 3129,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 325,
+      "extrapolated_or_absent": 1304,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "2017461",
+    "source": "skillcorner",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 947340,
+    "n_player_rows": 888888,
+    "n_ball_rows": 58452,
+    "n_frames": 58452,
+    "n_frames_by_period": {
+      "1": 27701,
+      "2": 30751
+    },
+    "n_players_seen": 32,
+    "player_rows_with_position": 888888,
+    "player_rows_detected": 454715,
+    "share_player_rows_detected": 0.5115548865548866,
+    "ball_rows_with_position": 40404,
+    "ball_rows_detected": 31875,
+    "ball_rows_with_z": 40404,
+    "frames_possession_null_share": 0.5057825224115513,
+    "player_offpitch_any": {
+      "detected": 2155,
+      "extrapolated_or_absent": 3854,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 163,
+      "extrapolated_or_absent": 1313,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 60.12,
+    "player_max_abs_y_m": 40.85,
+    "ball_offpitch_any": {
+      "detected": 1941,
+      "extrapolated_or_absent": 4224,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 477,
+      "extrapolated_or_absent": 1590,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "metrica_game_1",
+    "source": "metrica",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 4205174,
+    "n_player_rows": 4060168,
+    "n_ball_rows": 145006,
+    "n_frames": 145006,
+    "n_frames_by_period": {
+      "1": 71268,
+      "2": 73738
+    },
+    "n_players_seen": 28,
+    "player_rows_with_position": 3190138,
+    "player_rows_detected": 3190138,
+    "share_player_rows_detected": 0.7857157634856489,
+    "ball_rows_with_position": 88251,
+    "ball_rows_detected": 88251,
+    "ball_rows_with_z": 0,
+    "frames_possession_null_share": 1.0,
+    "player_offpitch_any": {
+      "detected": 30437,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 3069,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.4581,
+    "player_max_abs_y_m": 37.400000000000006,
+    "ball_offpitch_any": {
+      "detected": 2423,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 284,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "metrica_game_2",
+    "source": "metrica",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 3811212,
+    "n_player_rows": 3670056,
+    "n_ball_rows": 141156,
+    "n_frames": 141156,
+    "n_frames_by_period": {
+      "1": 67941,
+      "2": 73215
+    },
+    "n_players_seen": 26,
+    "player_rows_with_position": 3105436,
+    "player_rows_detected": 3105436,
+    "share_player_rows_detected": 0.8461549360554717,
+    "ball_rows_with_position": 83272,
+    "ball_rows_detected": 83272,
+    "ball_rows_with_z": 0,
+    "frames_possession_null_share": 1.0,
+    "player_offpitch_any": {
+      "detected": 21342,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 5275,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 57.75000000000001,
+    "player_max_abs_y_m": 37.400000000000006,
+    "ball_offpitch_any": {
+      "detected": 550,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 34,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  },
+  {
+    "match_id": "metrica_game_3",
+    "source": "metrica",
+    "pitch_length_m": 105.0,
+    "pitch_width_m": 68.0,
+    "n_rows": 3306503,
+    "n_player_rows": 3162742,
+    "n_ball_rows": 143761,
+    "n_frames": 143761,
+    "n_frames_by_period": {
+      "1": 69661,
+      "2": 74100
+    },
+    "n_players_seen": 35,
+    "player_rows_with_position": 3162742,
+    "player_rows_detected": 3162742,
+    "share_player_rows_detected": 1.0,
+    "ball_rows_with_position": 97436,
+    "ball_rows_detected": 97436,
+    "ball_rows_with_z": 0,
+    "frames_possession_null_share": 1.0,
+    "player_offpitch_any": {
+      "detected": 23266,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "player_offpitch_beyond_margin": {
+      "detected": 1534,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "player_max_abs_x_m": 56.3241,
+    "player_max_abs_y_m": 39.29516,
+    "ball_offpitch_any": {
+      "detected": 898,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "ball_offpitch_beyond_margin": {
+      "detected": 4,
+      "extrapolated_or_absent": 0,
+      "flag_missing": 0
+    },
+    "status_conflict": false
+  }
+]

@@ -1,0 +1,8 @@
+# data is rebuilt from scripts/setup_data.sh + python -m src.build (never committed)
+data/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store

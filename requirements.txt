@@ -1,0 +1,13 @@
+# Direct dependencies (pinned). Full resolved environment: requirements-lock.txt
+kloppy==3.19.0
+pandas==3.0.6
+numpy==2.4.6
+pyarrow==25.0.1
+matplotlib==3.11.2
+mplsoccer==1.8.1
+pytest==9.1.1
+orjson==3.12.0
+jupyter==1.1.1
+nbconvert==7.17.1
+nbformat==5.11.1
+ipykernel==7.3.0
