@@ -72,6 +72,13 @@ def text_prompt(item: Item, style: str = "direct") -> str:
             f"{_output_instruction(style, list(item.options))}")
 
 
+def _zone_note(item: Item) -> str:
+    if item.question_type != "overload_zone":
+        return ""
+    r = item.provenance.get("radius_m", 15.0)
+    return f" The dashed circle marks the zone: {r:g} m around {item.provenance['carrier']}."
+
+
 def image_prompt(item: Item, style: str = "direct") -> str:
     """Text that accompanies the rendered image (image format). No coordinates are given."""
     if style not in STYLES:
@@ -83,7 +90,7 @@ def image_prompt(item: Item, style: str = "direct") -> str:
             f"above. The pitch is {L:g} m by {W:g} m. Blue dots are {ATTACK} players and orange dots are "
             f"{DEFEND} players, each labelled with a shirt number; the small black dot is the ball. "
             f"{ATTACK} is in possession and attacks towards the {arrow} (arrow above the pitch)."
-            f"{_rules(item)}\n\n"
+            f"{_zone_note(item)}{_rules(item)}\n\n"
             f"Question: {item.question}\n{_options(item)}\n\n"
             f"{_output_instruction(style, list(item.options))}")
 
@@ -106,6 +113,11 @@ def render_scene(item: Item, path=None, dpi: int = IMG_DPI):
     if s["ball"]:
         ax.scatter(s["ball"]["x"] + ox, s["ball"]["y"] + oy, s=45, c=INK, edgecolors="white",
                    linewidths=1, zorder=5)
+    if item.question_type == "overload_zone":          # the zone is part of the question: draw it
+        import matplotlib.patches as mpatches
+        c = next(p for p in s["players"] if p["label"] == item.provenance["carrier"])
+        ax.add_patch(mpatches.Circle((c["x"] + ox, c["y"] + oy), item.provenance.get("radius_m", 15.0),
+                                     fill=False, ls="--", lw=1.5, ec=INK, zorder=2))
     x0, x1 = (ox - 10, ox + 10) if s["attack_direction"] == "+x" else (ox + 10, ox - 10)
     ax.annotate("", xy=(x1, W + 3), xytext=(x0, W + 3), annotation_clip=False,
                 arrowprops=dict(arrowstyle="-|>", color=BLUE, lw=2.5))
